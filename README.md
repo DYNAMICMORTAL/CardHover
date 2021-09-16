@@ -1,4 +1,4 @@
 ## Card Hover 
 
-Demo: <hr>
+# Demo: <br>
 https://dynamicmortal.github.io/CardHover/
