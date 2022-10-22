@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 build:
-  --trace
+      commands:
+        - jekyll b
+        --trace
