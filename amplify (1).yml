@@ -4,6 +4,7 @@ frontend:
     build:
       commands:
         - jekyll b
+        --trace
   artifacts:
     baseDirectory: _site
     files:
